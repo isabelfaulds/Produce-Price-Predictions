@@ -4,7 +4,7 @@ A Beautiful Soup of Fruit Prices
 # 
 
 
-Fresh produce prices are viewed as the most volatile of commodities. [link][https://gro-intelligence.com/insights/articles/fresh-produce-prices-top-volatility-rankings-gro-model-shows]
+Fresh produce prices are viewed as the most volatile of commodities. [link](https://gro-intelligence.com/insights/articles/fresh-produce-prices-top-volatility-rankings-gro-model-shows)
 Soil Temperature & rainfall have both been considered as factors in agricultural yield. Seasonal differences also affect supply & demand with an influx of supply during the months in late summer, early autumnn.
 
 
